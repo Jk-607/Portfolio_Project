@@ -1,1 +1,2 @@
 # Portfolio_Project
+In my first SQL project, I successfully completed data cleaning using MySQL. I began by sourcing a dataset from Kaggle, which contained raw data related to property sale and its owner details along with many more details. I performed data cleaning tasks, including removing duplicate records, handling missing values, and standardizing inconsistent data formats. I also applied SQL queries to identify and rectify anomalies, ensuring the dataset's integrity. The cleaned dataset serves as a foundation for accurate analysis and valuable insights.
